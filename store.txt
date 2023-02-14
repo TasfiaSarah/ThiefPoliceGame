@@ -1,0 +1,46 @@
+
+Shuffle no.1 done!
++-------------+----------+-------------+
+| Player Name |   Role   | Total Score |
++-------------+----------+-------------+
+|   Rashid    | Engineer |     100     |
+|    Sara     |  Thief   |     50      |
+|   Khaled    |  Police  |      0      |
++-------------+----------+-------------+
+Shuffle no.2 done!
++-------------+----------+-------------+
+| Player Name |   Role   | Total Score |
++-------------+----------+-------------+
+|   Rashid    |  Police  |     100     |
+|    Sara     | Engineer |     150     |
+|   Khaled    |  Thief   |     50      |
++-------------+----------+-------------+
+Shuffle no.3 done!
++-------------+----------+-------------+
+| Player Name |   Role   | Total Score |
++-------------+----------+-------------+
+|   Rashid    |  Police  |     100     |
+|    Sara     | Engineer |     250     |
+|   Khaled    |  Thief   |     100     |
++-------------+----------+-------------+
+Shuffle no.4 done!
++-------------+----------+-------------+
+| Player Name |   Role   | Total Score |
++-------------+----------+-------------+
+|   Rashid    |  Thief   |     150     |
+|    Sara     |  Police  |     250     |
+|   Khaled    | Engineer |     200     |
++-------------+----------+-------------+
+Last shuffle done!
++-------------+----------+-------------+
+| Player Name |   Role   | Total Score |
++-------------+----------+-------------+
+|   Rashid    | Engineer |     250     |
+|    Sara     |  Thief   |     250     |
+|   Khaled    |  Police  |     280     |
++-------------+----------+-------------+
++----------+
+| Winner   |
++==========+
+| Khaled   |
++----------+
